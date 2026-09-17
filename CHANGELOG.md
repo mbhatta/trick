@@ -1,5 +1,22 @@
 # Changelog
 
+## [26.0.0](https://github.com/nasa/trick/compare/25.1.1...v26.0.0) (2026-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove dead and deprecated code. ([#2190](https://github.com/nasa/trick/issues/2190))
+
+### Fixed
+
+* Add makefile rule for target sie in a sim directory. ([#2211](https://github.com/nasa/trick/issues/2211)) ([43a354e](https://github.com/nasa/trick/commit/43a354ee4c6c9ab228995e71f34a18e50c0ad670))
+* Update STL checkpoint name encoding so _ becomes __, while all other punctuation characters become _. ([#2197](https://github.com/nasa/trick/issues/2197)) ([76b5cf6](https://github.com/nasa/trick/commit/76b5cf65847a36cb1dcf6e00646142dfc1304a76))
+
+
+### Changed
+
+* Remove dead and deprecated code. ([#2190](https://github.com/nasa/trick/issues/2190)) ([ec6047b](https://github.com/nasa/trick/commit/ec6047b8bbd811daedab5b377311cf51c3417af0))
+
 ## [25.1.1] - 2026-09-04
 
 ### Changed
